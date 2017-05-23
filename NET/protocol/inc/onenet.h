@@ -15,8 +15,8 @@ typedef struct
     char devID[15];
     char apiKey[35];
 	
-	char proID[10];
-	char auif[50];
+	char proID[10];//产品ID(Product ID,PID;早期亦称为:项目ID)
+	char auif[50];//鉴权信息
 	
 	char ip[16];
 	char port[8];

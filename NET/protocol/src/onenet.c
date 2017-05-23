@@ -48,10 +48,10 @@
 
 
 struct MqttSampleContext ctx[1];
-char *topics[] = {"kylinV22", "pcTopic"};
+char *topics[] = {"kylinV23", "pcTopic"};
 
 
-ONETNET_INFO oneNetInfo = {"", "", "", "", "183.230.40.33", "6002", 0, 0, 0, 0};
+ONETNET_INFO oneNetInfo = {"6475738", "vmV0gauYcRUj3XcP7vh7NnWfbqE=", "87608", "QLBV23", "183.230.40.39", "6002", 0, 0, 0, 0};
 extern DATA_STREAM dataStream[];
 
 
